@@ -2,6 +2,7 @@
 
 In the project directory, you can run:
 
+### `cd memory-card-game`
 ### `npm start`
 
 Runs the app in the development mode.\
